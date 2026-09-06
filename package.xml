@@ -7,6 +7,10 @@
   <maintainer email="tommyleekaelin7@gmail.com">vm111</maintainer>
   <license>Apache-2.0</license>
 
+  <depend>athena_custom_msgs_pkg</depend>
+  <depend>athena_common</depend>
+
+
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
